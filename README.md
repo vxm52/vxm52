@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hi there ~ 👋
+
+### About me
+- 👨‍💻 I'm a full-stack developer
+- 🎓 Recent graduate from Penn State University
+- 🌱 Currently learning **Three.js**
+
+
 
 <!--
 **vxm52/vxm52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
