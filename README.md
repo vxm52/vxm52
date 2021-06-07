@@ -2,7 +2,7 @@
 
 ### About me
 - 👨‍💻 I'm a full-stack developer
-- 🎓 Recent graduate from Penn State University
+- 🎓 Recent graduate from Penn State University 🔵⚪🦁
 - 🌱 Currently learning **Three.js**
 
 
