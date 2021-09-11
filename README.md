@@ -1,4 +1,4 @@
-## Hi there ~ 👋
+## Hi there ~ <img src="https://github.com/vxm52/vxm52.github.io/blob/master/img/hi.gif" width="40px"/>
 
 ### About me
 - 👨‍💻 I'm a full-stack developer
