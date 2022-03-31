@@ -1,9 +1,9 @@
 ## Hi there ~ <img src="https://github.com/vxm52/vxm52.github.io/blob/master/img/hi.gif" width="40px"/>
 
-### About me
 - 👨‍💻 I'm a full-stack developer
 - 🎓 Recent graduate from Penn State University 🔵⚪🦁
 - 🌱 Currently learning [**Three.js**](https://threejs.org/) and [**Next.js**](https://nextjs.org/)
+- ⚡ Currently a Software Engineer at [**Cradlepoint**](https://cradlepoint.com/) (acquired by [**Ericsson**](https://www.ericsson.com/en))
 
 
 
