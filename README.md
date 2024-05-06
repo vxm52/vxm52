@@ -1,10 +1,10 @@
 ## Hi there ~ <img src="https://github.com/vxm52/vxm52.github.io/blob/master/img/hi.gif" width="40"/>
 
-- 👨‍💻 I'm a Software Engineer at [**Cradlepoint**](https://cradlepoint.com/) (acquired by [**Ericsson**](https://www.ericsson.com/en))
-- 🎓 Graduate of Penn State University 🔵⚪🦁
-- 🌱 Currently learning AI/ML fundamentals.
+- 👨‍💻 I'm a Software Engineer at [**Cradlepoint**](https://cradlepoint.com/) (acquired by [**Ericsson**](https://www.ericsson.com/en)) and an incoming Master's student at the [**University of Michigan**](https://umich.edu/)
+- 🎓 Graduate of [**Penn State University**](https://www.psu.edu/) 🔵⚪🦁
+- 🌱 Currently learning AI/ML fundamentals
 - 🧪 Experimenting some personal projects right now with [**Three.js**](https://threejs.org/) and [**Next.js**](https://nextjs.org/)
-- 🔭 Aiming to be more involved with AI/ML, Computer Vision, and HCI research projects in the near future.
+- 🔭 Aiming to be more involved with AI/ML, Computer Vision, and HCI research projects
 
 
 
