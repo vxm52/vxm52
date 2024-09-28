@@ -1,7 +1,7 @@
 ## Hi there <img src="https://github.com/vxm52/vxm52.github.io/blob/master/img/hi.gif" width="40"/>
 
 - 📖 I'm currently a Master's in Data Science student at the [**University of Michigan**](https://umich.edu/)
-- 👨‍💻 Previously worked as a Software Engineer II at [**Cradlepoint**](https://cradlepoint.com/) (acquired by [**Ericsson**](https://www.ericsson.com/en))
+- 👨‍💻 Previously worked as a Software Engineer II at [**Cradlepoint**](https://cradlepoint.com/) (part of [**Ericsson**](https://www.ericsson.com/en))
 - 🎓 Graduate of [**Penn State University**](https://www.psu.edu/) 🔵⚪🦁
 - 🌱 Currently learning AI/ML fundamentals
 - 🔭 Aiming to be more involved with AI/ML, Computer Vision, and HCI research projects
